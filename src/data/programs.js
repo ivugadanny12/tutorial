@@ -1,0 +1,12 @@
+export const programs = [
+    { id: 'MS1', slug: 'Science', title: 'Mathematics and Science Stream One', grade: '4-6', description: 'This program focuses on advanced topics in mathematics and science for students preparing for higher education in STEM fields.' },
+    { id: 'MS2', slug: 'Science', title: 'Mathematics and Science Stream Two', grade: '4-6', description: 'This program builds on the concepts introduced in Stream One and explores deeper mathematical and scientific applications.' },
+    { id: 'AH', slug: 'Humanity', title: 'Art and Humanity', grade: '4-6', description: 'This program develops critical thinking, creativity, and cultural understanding through humanities and arts studies.' },
+    { id: 'LANG', slug: 'Languages', title: 'Languages', grade: '4-6', description: 'This program strengthens communication, literacy, and language proficiency in both local and international languages.' },
+    { id: 'ICT', slug: 'Technology', title: 'Information and Communication Technology', grade: '4-6', description: 'This program introduces students to digital literacy, computing, coding, and practical technology skills for modern life.' },
+    { id: 'SOC', slug: 'Humanity', title: 'Social Sciences and Humanities', grade: '4-6', description: 'This program helps students understand society, citizenship, history, economics, and human relationships in Rwanda and beyond.' },
+    { id: 'ART', slug: 'Arts', title: 'Arts, Music and Design', grade: '4-6', description: 'This program nurtures creativity, artistic expression, design thinking, and cultural appreciation through performance and visual arts.' },
+    { id: 'AG', slug: 'Agriculture', title: 'Agriculture and Environmental Studies', grade: '4-6', description: 'This program focuses on agricultural practices, environmental sustainability, and the role of science in food security.' },
+    { id: 'BUS', slug: 'Business', title: 'Business and Entrepreneurship', grade: '4-6', description: 'This program develops practical skills in entrepreneurship, management, finance, and economic participation.' },
+    { id: 'HEALTH', slug: 'Health', title: 'Health and Life Skills', grade: '4-6', description: 'This program supports students with health education, life skills, personal development, and well-being awareness.' }
+]

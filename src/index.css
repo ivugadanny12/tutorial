@@ -1,14 +1,6 @@
 @import 'tailwindcss';
 
 @theme {
-  extend: {
-    colors: {
-      primary: '#1DA1F2',
-      secondary: '#14171A',
-      accent: '#657786',
-    },
-  },
-  
   --color-brand-50: #eef7f2;
   --color-brand-500: #1f7a4d;
   --color-brand-700: #145634;
